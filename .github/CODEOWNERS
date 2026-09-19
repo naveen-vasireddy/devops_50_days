@@ -1,1 +1,6 @@
+# Global code owners for the repo
+* deepaksai123n@gmail.com
+
+# Require specific reviews for infrastructure changes
+/infra/ deepaksai123n@gmail.com
 
